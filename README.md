@@ -1,2 +1,5 @@
 # GitHub
-Now to add the .gitignore
+
+This is my first respository on GitHub. 
+
+very confusing...
